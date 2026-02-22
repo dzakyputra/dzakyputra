@@ -1,8 +1,8 @@
 ## Hi, I'm Dzaky 👋
 
-📍 Jakarta, Indonesia | 👨🏻‍💻 Software Engineer @ <a href="https://traveloka.com" target="_blank">Traveloka</a> | 💼 Ex-Grab, Tokopedia and ByteDance
+<!-- 📍 Jakarta, Indonesia | 👨🏻‍💻 Software Engineer @ <a href="https://traveloka.com" target="_blank">Traveloka</a> | 💼 Ex-Grab, Tokopedia and ByteDance -->
 
-<!-- <hr> -->
+📍 Jakarta, Indonesia | 👨🏻‍💻 Software Engineer | 💼 Ex-Grab, Tokopedia and ByteDance
 
 ## Stacks & Interests
 - Go, Python, TypeScript, TailwindCSS, Next.js, React Native, PostgreSQL, Redis, InstantDB, AI & Machine Learning
